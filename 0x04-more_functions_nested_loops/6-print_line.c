@@ -13,7 +13,7 @@ _putchar('\n');
 else 
 {
 for (lnChr = 1; lnChar <= n; lnChr++)
-_putchar('_');
+_putchar(95);
 _putchar('\n');
 }
 }
