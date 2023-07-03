@@ -2,10 +2,9 @@
 
 /**
  * _memset - Write a function that fills memory with a constant byte
- * @s : pointer 
+ * @s : pointer
  * @b : character
  * @n : unsigned int
- *
  * return : pointer s
  */
 
